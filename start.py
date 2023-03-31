@@ -1,5 +1,3 @@
-matplotlib
-
 from alpha_vantage.timeseries import TimeSeries
 import matplotlib.pyplot as plt
 
